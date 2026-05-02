@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dsw2026Ej8.Ejercicio4
 {
-    internal class Problema3
+    internal class Problema4
     {
 
         public double CalcularPromedio(int? nota1, int? nota2, int? nota3)
